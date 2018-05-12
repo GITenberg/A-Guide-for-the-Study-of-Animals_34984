@@ -1,0 +1,39 @@
+_repo: A-Guide-for-the-Study-of-Animals_34984
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Smallwood, Mabel Elizabeth
+    alias: Smallwood, Mabel E.
+    gutenberg_agent_id: '37368'
+    url: http://www.gutenberg.org/2009/agents/37368
+  - agent_name: Shinn, Harold Brough
+    birthdate: 1877
+    gutenberg_agent_id: '37367'
+    url: http://www.gutenberg.org/2009/agents/37367
+  - agent_name: Whitney, Worrallo
+    gutenberg_agent_id: '37365'
+    url: http://www.gutenberg.org/2009/agents/37365
+  - agent_name: Lucas, Frederic Colby
+    gutenberg_agent_id: '37366'
+    url: http://www.gutenberg.org/2009/agents/37366
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild
+gutenberg_issued: '2011-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34984'
+  lccn: '11029766'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Zoology -- Laboratory manuals'
+- !lcc 'QL'
+title: A Guide for the Study of Animals
+url: http://www.gutenberg.org/ebooks/34984
