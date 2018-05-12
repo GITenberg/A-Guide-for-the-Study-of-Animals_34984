@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '37366'
     url: http://www.gutenberg.org/2009/agents/37366
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34984#A-Guide-for-the-Study-of-Animals
 gutenberg_bookshelf:
 - Animal
 - Animals-Wild
